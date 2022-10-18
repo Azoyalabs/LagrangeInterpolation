@@ -1,7 +1,7 @@
 # LagrangeInterpolation
 
 Creating a Lagrange interpolation for a series of points.   
-This version uses sympy to factorize the resulting equation, it is also numerically stable but will be slow for long datasets.   
+This version uses sympy to factorize the resulting equation, but will be slow for long datasets.   
 
 Running main.py produces the following equation and plot: 
 
